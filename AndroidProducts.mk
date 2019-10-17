@@ -15,7 +15,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/gzosp_enchilada.mk
+    $(LOCAL_DIR)/validus_enchilada.mk
 
 COMMON_LUNCH_CHOICES := \
-    gzosp_enchilada-userdebug 
+    validus_enchilada-userdebug 
